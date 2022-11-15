@@ -1,0 +1,23 @@
+
+.goods-content.data-v-71a0494e{
+	padding:10rpx 20rpx;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.goods-text.data-v-71a0494e{
+	width:360rpx;
+	padding:0 10rpx;
+	font-size:26rpx;
+}
+.goods-img.data-v-71a0494e{
+	width:160rpx;
+	height:160rpx;
+}
+.goods-name.data-v-71a0494e{
+	font-size:26rpx;
+}
+.goods-size.data-v-71a0494e{
+	font-size:24rpx;
+}
+
